@@ -444,7 +444,8 @@ app.get("/", (req, res) => {
       { name: "Sandwichs baguette", meals: [] },
       { name: "Desserts", meals: [] },
       { name: "Boissons fraîches", meals: [] },
-      { name: "Epicerie bio", meals: [] },
+      { name: "Epicerie bio", meals: 
+      [] },
       { name: "Repas corporate", meals: [] },
       { name: "Couverts", meals: [] }
     ]
